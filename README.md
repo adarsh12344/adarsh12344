@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adarsh12344
 - 👀 I’m interested in - Working on basic projects
 - 🌱 I’m currently learning - C++ and Python 
-- 💞️ I’m looking to collaborate on - Any project realted to WEB DEV. and Machine Learning 
+- 💞️ I’m looking to collaborate on - Any project related to WEB DEV. and Machine Learning 
 - 📫 How to reach me - adarshthakur1992@gmail.com
 
 <!---
