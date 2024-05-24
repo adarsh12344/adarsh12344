@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![logo]()
 <h1 align="center">Hi 👋, I'm Adarsh Thakur</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
