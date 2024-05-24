@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/adarsh12344/adarsh12344/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Adarsh Thakur</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
